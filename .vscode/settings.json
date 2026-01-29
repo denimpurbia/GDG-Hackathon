@@ -1,0 +1,8 @@
+{
+  "css.validate": false,
+  "css.lint.compatibility": "ignore",
+  "css.lint.vendorPrefix": "ignore",
+  "css.lint.unknownVendorSpecificProperties": "ignore",
+  "css.lint.validProperties": "ignore",
+  "css.lint.boxModel": "ignore"
+}
